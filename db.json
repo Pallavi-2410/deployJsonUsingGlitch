@@ -19,6 +19,11 @@
       "id": "4",
       "title": "Fourth user",
       "views": 450
+    },
+    {
+      "id": "5",
+      "title": "Fifth user",
+      "views": 450
     }
   ],
   "posts": [
