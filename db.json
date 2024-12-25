@@ -1,4 +1,26 @@
 {
+  "users": [
+    {
+      "id": "1",
+      "title": "First user",
+      "views": 150
+    },
+    {
+      "id": "2",
+      "title": "Second user",
+      "views": 250
+    },
+    {
+      "id": "3",
+      "title": "Third user",
+      "views": 350
+    },
+    {
+      "id": "4",
+      "title": "Fourth user",
+      "views": 450
+    }
+  ],
   "posts": [
     {
       "id": "1",
